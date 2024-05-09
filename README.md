@@ -89,7 +89,7 @@ concrete.  PCI Journal, May-June, 1987.
 
 ## __Aula 02__
 
-### [Capítulo 3 - Exemplo de aplicação](https://nbviewer.org/github/mvreal/TAC/blob/main/Capitulo_2-1.ipynb)
+### [Capítulo 3 - Exemplo de aplicação](https://nbviewer.org/github/mvreal/ST/blob/main/Capitulo_3-1.ipynb)
 
 
 ##### 3.1 - Estabelecimento dos modelos de bielas e tirantes
