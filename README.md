@@ -55,9 +55,9 @@ concrete.  PCI Journal, May-June, 1987.
 
 ## __Aula 01__
 
-### [Capítulo 1 - Introdução](https://nbviewer.org/github/mvreal/ST/blob/main/Capitulo_1-1.ipynb)
+### [Capítulo 1 - Introdução](https://nbviewer.org/github/mvreal/ST/blob/main/Capitulo_1.ipynb)
 
-### [Capítulo 2 - Desenvolvimento dos modelos de bielas e de tirantes](https://nbviewer.org/github/mvreal/ST/blob/main/Capitulo_2-1.ipynb)
+### [Capítulo 2 - Desenvolvimento dos modelos de bielas e de tirantes](https://nbviewer.org/github/mvreal/ST/blob/main/Capitulo_2.ipynb)
 
 #### 2.1 - Modelos B e D das estruturas
 
@@ -89,7 +89,7 @@ concrete.  PCI Journal, May-June, 1987.
 
 ## __Aula 02__
 
-### [Capítulo 3 - Exemplo de aplicação](https://nbviewer.org/github/mvreal/ST/blob/main/Capitulo_3-1.ipynb)
+### [Capítulo 3 - Exemplo de aplicação](https://nbviewer.org/github/mvreal/ST/blob/main/Capitulo_3.ipynb)
 
 
 ##### 3.1 - Estabelecimento dos modelos de bielas e tirantes
