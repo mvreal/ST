@@ -59,13 +59,13 @@ concrete.  PCI Journal, May-June, 1987.
 
 ### [Capítulo 2 - Desenvolvimento dos modelos de bielas e de tirantes](https://nbviewer.org/github/mvreal/ST/blob/main/Capitulo_2.ipynb)
 
-#### 2.1 - Modelos B e D das estruturas
+#### [2.1 - Modelos B e D das estruturas](https://nbviewer.org/github/mvreal/ST/blob/main/Capitulo_2-1.ipynb)
 
-#### 2.2 - Princípios para estabelecer os modelos de bielas e tirantes
+#### [2.2 - Princípios para estabelecer os modelos de bielas e tirantes](https://nbviewer.org/github/mvreal/ST/blob/main/Capitulo_2-2.ipynb)
 
-#### 2.3 - Modelagem das regiões D
+#### [2.3 - Modelagem das regiões D](https://nbviewer.org/github/mvreal/ST/blob/main/Capitulo_2-3.ipynb)
 
-#### 2.4 - Dimensionamento das bielas, tirantes e nós
+#### [2.4 - Dimensionamento das bielas, tirantes e nós](https://nbviewer.org/github/mvreal/ST/blob/main/Capitulo_2-4.ipynb)
 
 ##### 2.4.1 - Definições
 
@@ -79,7 +79,7 @@ concrete.  PCI Journal, May-June, 1987.
 
 ##### 2.4.4 - Regra geral
 
-#### 2.5 - Exemplos de modelos de bielas e tirantes
+#### [2.5 - Exemplos de modelos de bielas e tirantes](https://nbviewer.org/github/mvreal/ST/blob/main/Capitulo_2-5.ipynb)
 
 ##### 2.5.1 - Dentes Gerber
 ##### 2.5.2 - Abertura em uma laje com momento constante
