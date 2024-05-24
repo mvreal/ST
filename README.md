@@ -83,7 +83,7 @@ concrete.  PCI Journal, May-June, 1987.
 #### [2.5 - Exemplos de modelos de bielas e tirantes](https://nbviewer.org/github/mvreal/ST/blob/main/Capitulo_2-5.ipynb)
 
 ##### 2.5.1 - Dentes Gerber
-##### 2.5.2 - Abertura em uma laje com momento constante
+##### 2.5.2 - Abertura em uma laje 
 ##### 2.5.3 - Nó de pórtico
 ##### 2.5.4 - Viga com abertura
 ##### 2.5.5 - Consolo curto
