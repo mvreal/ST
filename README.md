@@ -72,9 +72,9 @@ concrete.  PCI Journal, May-June, 1987.
 
 ##### 2.4.2 - Bielas e tirantes
 
-##### (a) Bielas comprimidas de concreto - campos de tensão Cc
-##### (b) Tirantes tracionados de concreto - campos de tensão Tc
-##### (c) Tirantes de armadura T
+##### (1) Bielas comprimidas de concreto - campos de tensão Cc
+##### (2) Tirantes tracionados de concreto - campos de tensão Tc
+##### (3) Tirantes de armadura T
 
 ##### 2.4.3 - Os nós
 
