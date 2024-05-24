@@ -52,6 +52,7 @@ Pineridge, 1980.
 20. SCHLAICH, J.; SCHAFER, K. & JENNEWEIN, M.  Toward a consistent design of structural 
 concrete.  PCI Journal, May-June, 1987.
 21. SANTOS, D.M. Projeto estrutural por bielas e tirantes. São Paulo, Oficina de Textos, 2021. 
+22. ARAÚJO, J.M. Curso de Concreto Armado. V. 4. 5a ed. Rio Grande, Editora Dunas, 2023.
 
 ## __Aula 01__
 
