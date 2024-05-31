@@ -53,6 +53,7 @@ Pineridge, 1980.
 concrete.  PCI Journal, May-June, 1987.
 21. SANTOS, D.M. Projeto estrutural por bielas e tirantes. São Paulo, Oficina de Textos, 2021. 
 22. ARAÚJO, J.M. Curso de Concreto Armado. V. 4. 5a ed. Rio Grande, Editora Dunas, 2023.
+23. ABNT, NBR-6118:2023 - Projeto de Estruturas de Concreto. Rio de Janeiro, ABNT, 2023.
 
 ## __Aula 01__
 
@@ -87,6 +88,15 @@ concrete.  PCI Journal, May-June, 1987.
 ##### 2.5.3 - Nó de pórtico
 ##### 2.5.4 - Viga com abertura
 ##### 2.5.5 - Consolo curto
+
+#### [2.6 - Estudo comparativo entre diversas normas internacionais](https://nbviewer.org/github/mvreal/ST/blob/main/Capitulo_2-6.ipynb)
+
+##### 2.6.1 - NBR-6118:2023
+##### 2.6.2 - Eurocode - 2023 
+##### 2.6.3 - Código Modelo fib-2010
+##### 2.6.4 - ACI-318:2019
+##### 2.6.5 - Estudo comparativo das tensões máximas no concreto entre as diversas normas
+
 
 ## __Aula 02__
 
