@@ -103,16 +103,36 @@ concrete.  PCI Journal, May-June, 1987.
 
 ## __Aula 02__
 
-### [Capítulo 3 - Exemplo de aplicação](https://nbviewer.org/github/mvreal/ST/blob/main/Capitulo_3-1.ipynb)
+### Capítulo 3 - Exemplo de aplicação
 
+#### [3.1 - Viga parede com furo quadrado](https://nbviewer.org/github/mvreal/ST/blob/main/Capitulo_3-1.ipynb)
 
-##### 3.1 - Estabelecimento dos modelos de bielas e tirantes
+##### 3.1.1 - Estabelecimento dos modelos de bielas e tirantes
 
-##### 3.2 - Cálculo dos esforços nas bielas e tirantes
+##### 3.1.2 - Cálculo dos esforços nas bielas e tirantes
 
-##### 3.3 - Dimensionamento dos tirantes de armadura
+##### 3.1.3 - Dimensionamento dos tirantes de armadura
 
-##### 3.4 - Verificação das tensões das bielas e nós críticos
+##### 3.1.4 - Verificação das tensões das bielas e nós críticos
 
-##### 3.5 - Detalhamento da estrutura
+##### 3.1.5 - Detalhamento da estrutura
+
+#### [3.2 - Console curto simétrico](https://nbviewer.org/github/mvreal/ST/blob/main/Capitulo_3-2.ipynb)
+
+##### 3.2.1 - Descrição do exemplo de cálculo
+
+##### 3.2.2 - Definição das propriedades dos materiais e da espessura da região D
+
+##### 3.2.3 - Linhas mestras
+
+##### 3.2.4 - Contorno da região D
+
+##### 3.2.5 - Traçado das bielas e tirantes
+
+##### 3.2.6 - Aplicação das cargas e condições de contorno
+
+##### 3.2.7 - Solução da treliça
+
+##### 3.2.8 - Verificação das tensões  nas bielas, tirantes e nos nós.
+
 
