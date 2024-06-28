@@ -135,4 +135,12 @@ concrete.  PCI Journal, May-June, 1987.
 
 ##### 3.2.8 - Verificação das tensões  nas bielas, tirantes e nos nós.
 
+#### [3.3 - Viga parede com furo quadrado - análise com o programa CAST](https://nbviewer.org/github/mvreal/ST/blob/main/Capitulo_3-3.ipynb)
 
+##### 3.3.1 - Descrição do exemplo de cálculo
+
+##### 3.3.2 - Definição das propriedades dos materiais e da espessura da região D
+
+##### 3.3.3 - Análise do lado direito da seção da viga parede
+
+##### 3.4.4 - Análise do lado esquerdo da seção da viga parede
