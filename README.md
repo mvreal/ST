@@ -62,7 +62,7 @@ concrete.  PCI Journal, May-June, 1987.
 
 ### [Capítulo 1 - Introdução](https://nbviewer.org/github/mvreal/ST/blob/main/Capitulo_1.ipynb)
 
-### [Capítulo 2 - Desenvolvimento dos modelos de bielas e de tirantes](https://nbviewer.org/github/mvreal/ST/blob/main/Capitulo_2.ipynb)
+### [Capítulo 2 - Desenvolvimento dos modelos de bielas e de tirantes](https://nbviewer.org/github/mvreal/ST/blob/main/Capitulo_2-1.ipynb)
 
 #### [2.1 - Modelos B e D das estruturas](https://nbviewer.org/github/mvreal/ST/blob/main/Capitulo_2-1.ipynb)
 
@@ -70,27 +70,29 @@ concrete.  PCI Journal, May-June, 1987.
 
 #### [2.3 - Modelagem das regiões D](https://nbviewer.org/github/mvreal/ST/blob/main/Capitulo_2-3.ipynb)
 
-#### [2.4 - Dimensionamento das bielas, tirantes e nós](https://nbviewer.org/github/mvreal/ST/blob/main/Capitulo_2-4.ipynb)
+#### [2.4 - Exemplos de modelos de bielas e tirantes](https://nbviewer.org/github/mvreal/ST/blob/main/Capitulo_2-4.ipynb)
 
-##### 2.4.1 - Definições
+##### 2.4.1 - Dentes Gerber
+##### 2.4.2 - Abertura em uma laje 
+##### 2.4.3 - Nó de pórtico
+##### 2.4.4 - Viga com abertura
+##### 2.4.5 - Consolo curto
 
-##### 2.4.2 - Bielas e tirantes
+## __Aula 02__
+
+#### [2.5 - Dimensionamento das bielas, tirantes e nós](https://nbviewer.org/github/mvreal/ST/blob/main/Capitulo_2-5.ipynb)
+
+##### 2.5.1 - Definições
+
+##### 2.5.2 - Bielas e tirantes
 
 ##### (1) Bielas comprimidas de concreto - campos de tensão Cc
 ##### (2) Tirantes tracionados de concreto - campos de tensão Tc
 ##### (3) Tirantes de armadura T
 
-##### 2.4.3 - Os nós
+##### 2.5.3 - Os nós
 
-##### 2.4.4 - Regra geral
-
-#### [2.5 - Exemplos de modelos de bielas e tirantes](https://nbviewer.org/github/mvreal/ST/blob/main/Capitulo_2-5.ipynb)
-
-##### 2.5.1 - Dentes Gerber
-##### 2.5.2 - Abertura em uma laje 
-##### 2.5.3 - Nó de pórtico
-##### 2.5.4 - Viga com abertura
-##### 2.5.5 - Consolo curto
+##### 2.5.4 - Regra geral
 
 #### [2.6 - Estudo comparativo entre diversas normas internacionais](https://nbviewer.org/github/mvreal/ST/blob/main/Capitulo_2-6.ipynb)
 
@@ -101,7 +103,7 @@ concrete.  PCI Journal, May-June, 1987.
 ##### 2.6.5 - Estudo comparativo das tensões máximas no concreto entre as diversas normas
 
 
-## __Aula 02__
+## __Aula 03__
 
 ### Capítulo 3 - Exemplo de aplicação
 
